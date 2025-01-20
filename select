@@ -1,0 +1,9 @@
+SELECT 
+    id_vendedor,
+    nome,
+    salario
+FROM 
+    vendedores
+
+ORDER BY 
+    nome ASC;
